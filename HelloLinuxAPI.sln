@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloLinuxAPI", "HelloLinuxAPI\HelloLinuxAPI.csproj", "{D80FC312-8FBF-4B42-9905-30D559F91292}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D80FC312-8FBF-4B42-9905-30D559F91292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D80FC312-8FBF-4B42-9905-30D559F91292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D80FC312-8FBF-4B42-9905-30D559F91292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D80FC312-8FBF-4B42-9905-30D559F91292}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DFB31AC-E052-4B98-9ECE-5AE5AABF7989}
+	EndGlobalSection
+EndGlobal
